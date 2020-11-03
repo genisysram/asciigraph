@@ -6,6 +6,7 @@ go:
   - "1.9.x"
   - "1.10.x"
   - master
+  - tip
 
 install:
   - go get github.com/mattn/goveralls
